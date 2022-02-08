@@ -4,3 +4,7 @@ server untuk golang:
 
 list perubahan note per commit:
 1.
+
+
+list project:
+1.applikasi mobile.
