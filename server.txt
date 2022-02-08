@@ -2,9 +2,9 @@ server untuk golang:
 1.ada server http 
 2.blm ada https
 
-list perubahan note per commit:
-1.
+
 
 
 list project:
 1.applikasi mobile.
+2.mobile dengan backend yang solid
