@@ -6,6 +6,7 @@ server untuk golang:
   - bisa pakai ngin x kah
 
 3. cloud.
+  - survey yang paling banyak di gunakan di indonesia.
 
 
 list project:
