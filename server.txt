@@ -5,7 +5,8 @@ server untuk golang:
   - bagaimana dengan pengunaan microservices.
   - untuk pengunaan hap proxy apa itu
   - bisa pakai http proxy
-  - bisa pakai ngin x kah
+  - bisa pakai ngin x kah, tapi ini kan javascript takutnya nga kencang jalannya.
+  - load balancer gimana
 
 4. cloud.
   - survey yang paling banyak di gunakan di indonesia.
