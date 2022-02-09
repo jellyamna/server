@@ -2,7 +2,7 @@ server untuk golang:
 1.ada server http 
 2.blm ada https
 3. untuk proxy
-  - load balancer bagaimana?
+  - bagaimana dengan pengunaan microservices.
   - untuk pengunaan hap proxy apa itu
   - bisa pakai http proxy
   - bisa pakai ngin x kah
