@@ -1,7 +1,8 @@
 server untuk golang:
 1.ada server http 
 2.blm ada https
-3. untuk proxy .
+3. untuk proxy
+  - untuk pengunaan hap proxy apa itu
 
 
 
