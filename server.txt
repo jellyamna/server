@@ -1,9 +1,11 @@
 server untuk golang:
 1.ada server http 
 2.blm ada https
-3. untuk proxy .
+3. untuk proxy
+  - bisa pakai http proxy
+  - bisa pakai ngin x kah
 
-
+3. cloud.
 
 
 list project:
