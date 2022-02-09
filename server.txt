@@ -2,9 +2,13 @@ server untuk golang:
 1.ada server http 
 2.blm ada https
 3. untuk proxy
+
   - untuk pengunaan hap proxy apa itu
+  - bisa pakai http proxy
+  - bisa pakai ngin x kah
 
-
+4. cloud.
+  - survey yang paling banyak di gunakan di indonesia.
 
 
 list project:
