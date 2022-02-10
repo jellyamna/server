@@ -15,3 +15,7 @@ server untuk golang:
 list project:
 1.applikasi mobile.
 2.mobile dengan backend yang solid
+
+
+penambahan dari jellyamna1 :
+-  n/a
